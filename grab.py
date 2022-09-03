@@ -5,7 +5,7 @@ import time
 import os
 import requests
 from threading import Thread
-import platform
+import platform 
 
 os.system("cls")
 
