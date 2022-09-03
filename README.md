@@ -1,7 +1,5 @@
 <br>
 
-<img align="center" src="https://user-images.githubusercontent.com/59760485/188288671-2be031be-6abc-4b0d-a17b-67a5716c1506.png">
-
 <h1 align="center">🙂 IP GRABBER 🙂</h1>
 
 <br>
@@ -13,5 +11,10 @@
 ```batch
 python grab.py -u <link> -n C:\Users\<user>\Desktop\IpGrabber\ngrok.exe
 ```
+  
+<br>
+<br>
+  
+<img src="https://user-images.githubusercontent.com/59760485/188288671-2be031be-6abc-4b0d-a17b-67a5716c1506.png" align="center">
   
 <br>
