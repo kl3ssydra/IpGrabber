@@ -6,7 +6,7 @@ import os
 import requests
 from threading import Thread
 import platform 
-
+ 
 os.system("cls")
 
 os.system("title GRAB ~ clessidra#8188")
