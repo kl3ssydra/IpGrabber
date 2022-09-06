@@ -8,7 +8,7 @@
 
 <br>
   
-```yml
+```bash
 Usage :
 
     ➥      $ python3 grab.py -u <link> -n C:\Users\<user>\Desktop\IpGrabber\ngrok.exe
