@@ -11,8 +11,12 @@
 ```bash
 Usage :
 
-    ➥      $ python3 grab.py -u <link> -n C:\Users\<user>\Desktop\IpGrabber\ngrok.exe
-    ➥      $ python3 grab.py -u <link> -n C:\Users\<user>\OneDrive\Desktop\IpGrabber\ngrok.exe
+    ➥      $ python3 grab.py -u <link> -n C:\Users\<user>\ ... \ngrok.exe
+    ➥      $ python3 grab.py -u <link> -n C:\Users\<user>\OneDrive\ ...\ngrok.exe
+    
+Example : 
+
+    ➥      $ python3 grab.py -u <link> -n C:\Users\kl3ssydra\Desktop\IpGrabber-main\ngrok.exe
 ```
 <br>
 <br>
