@@ -14,9 +14,11 @@ Usage :
     ➥      $ python3 grab.py -u <link> -n C:\Users\<user>\ ... \ngrok.exe
     ➥      $ python3 grab.py -u <link> -n C:\Users\<user>\OneDrive\ ...\ngrok.exe
     
+  
 Example : 
 
     ➥      $ python3 grab.py -u <link> -n C:\Users\kl3ssydra\Desktop\IpGrabber-main\ngrok.exe
+    ➥      $ python3 grab.py -u <link> -n C:\Users\kl3ssydra\OneDrive\Desktop\IpGrabber-main\ngrok.exe
 ```
 <br>
 <br>
