@@ -12,7 +12,7 @@
 Usage :
 
     ➥      $ python3 grab.py -u <link> -n C:\Users\<user>\ ... \ngrok.exe
-    ➥      $ python3 grab.py -u <link> -n C:\Users\<user>\OneDrive\ ...\ngrok.exe
+    ➥      $ python3 grab.py -u <link> -n C:\Users\<user>\OneDrive\ ... \ngrok.exe
     
   
 Example : 
