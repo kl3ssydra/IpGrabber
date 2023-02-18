@@ -17,8 +17,8 @@ Usage :
   
 Example : 
 
-    ➥      $ python3 grab.py -u <link> -n C:\Users\kl3ssydra\Desktop\IpGrabber-main\ngrok.exe
-    ➥      $ python3 grab.py -u <link> -n C:\Users\kl3ssydra\OneDrive\Desktop\IpGrabber-main\ngrok.exe
+    ➥      $ python3 grab.py -u https://github.com -n C:\Users\kl3ssydra\Desktop\IpGrabber-main\ngrok.exe
+    ➥      $ python3 grab.py -u https://github.com -n C:\Users\kl3ssydra\OneDrive\Desktop\IpGrabber-main\ngrok.exe
 ```
 <br>
 <br>
